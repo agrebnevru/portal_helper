@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.065,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAddTaskCheckList.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAuth.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAuth.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\portal.helper.dproj=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\portal.redsign.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAbout.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitMain.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitNotify.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAuth.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitSettings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAddTaskCheckList.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAuth.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAddTaks.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitMain.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitTest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\RequestThread.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAddTaks.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitTest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitAbout.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.231,C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\portal.redsign.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\RequestThreadFile.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\RequestThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\UnitNotify.dfm=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\CheckNewVerThreadFile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=E:\Programming\delphi_rad_studio_10.1\projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>2016.12.15 19:22:08.342,=E:\Programming\delphi_rad_studio_10.1\my_projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>2016.12.15 19:22:59.527,E:\Programming\delphi_rad_studio_10.1\my_projects\portal.redsign\UnitMpStats.pas=E:\Programming\delphi_rad_studio_10.1\my_projects\portal.redsign\Unit1.pas</Transaction>
+    <Transaction>2016.12.15 19:22:59.527,E:\Programming\delphi_rad_studio_10.1\my_projects\portal.redsign\UnitMpStats.dfm=E:\Programming\delphi_rad_studio_10.1\my_projects\portal.redsign\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
